@@ -1,1 +1,2 @@
 # tiktok
+En este análisis, se ha utilizado un conjunto de datos de TikTok con el objetivo de comprender mejor las tendencias y patrones de comportamiento en la plataforma. Se realizaron varios análisis exploratorios de datos (EDA) utilizando las bibliotecas de Python, Matplotlib y Seaborn, para visualizar las relaciones clave y obtener insights significativos. Los gráficos generados permiten observar, de manera clara y concisa, las tendencias de contenido, la interacción de los usuarios y otros factores relevantes que afectan el rendimiento de los videos en TikTok.
